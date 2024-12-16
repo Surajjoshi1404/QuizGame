@@ -1,0 +1,10 @@
+What is the capital of France?;Paris;Berlin;Madrid;1
+Which planet is known as the Red Planet?;Earth;Mars;Venus;2
+What is the largest mammal?;Elephant;Blue Whale;Giraffe;2
+Who wrote 'Romeo and Juliet'?;Shakespeare;Hemingway;Dickens;1
+What is the square root of 64?;6;8;10;2
+In which year did World War II end?;1945;1940;1939;1
+What is the chemical symbol for water?;H2O;O2;CO2;1
+Which continent is known as the 'Dark Continent'?;Africa;Asia;South America;1
+What is the speed of light?;300,000 km/s;150,000 km/s;500,000 km/s;1
+Who painted the Mona Lisa?;Van Gogh;Da Vinci;Picasso;2
